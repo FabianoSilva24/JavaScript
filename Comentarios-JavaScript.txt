@@ -1,0 +1,51 @@
+NaN -> Not a Number
+
+Typeos() -> mostra a categoria do que vc quer.
+
+let e const -> Cria uma variavel
+ |      |
+ |      |
+ |      |
+ |      -> se não for mudar
+ |
+ |
+ -> se quiser mudar
+
+Casting -> conversão de tipo
+
+let lista = [] -> lista vazia
+
+(variavel).lenght -> quantidade de items na lista
+
+(variavel).push -> colocar items no final da lista
+
+Array -> lista
+
+adicionar items a objetos -> colocar a chave e a 
+___________________________________________
+
+== -> igual á
+
+!= -> não igual á
+
+> -> maior
+
+< -> menor
+
+>= -> maior igual
+
+<= -> menor igual
+___________________________________________
+
+!-não 
+
+&& -> Só retorna true se todos forem true.
+
+|| -ou -> Só retorna false se todos forem false.
+
+Order de presedencia
+(! -> & -> ||)
+
+___________________________________________
+
+*MODELAGEM:
